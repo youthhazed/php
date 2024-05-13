@@ -6,6 +6,6 @@
     <title>Тестируем PHP</title>
 </head>
 <body>
-    <? echo '<p>Hello, World!</p>'; ?>
+    <? echo '<p>Hellfo, World!</p>'; ?>
 </body>
 </html>
