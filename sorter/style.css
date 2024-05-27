@@ -1,0 +1,194 @@
+body {
+    background-color: #eee !important;
+}
+header {
+    margin-bottom: 15px;
+}
+.fix {
+    margin-left: -15px;
+}
+.inp_fx {
+    position: relative;
+    left: 20px;
+}
+.fffix {
+    left: 25px
+}
+.ffix {
+    position: relative;
+    right: 15px;
+}
+.ffffix {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+button {
+    background-color: #fde455 !important;
+}
+
+.container {
+    max-width: 600px !important;
+    margin: 0 auto !important;
+    padding: 20px !important;
+    border: 1px solid #ccc !important;
+    border-radius: 5px !important;
+    background-color: #f9f9f9 !important;
+    margin-bottom: 20px !important;
+}
+
+.form-group {
+    margin-bottom: 20px !important;
+}
+
+label {
+    display: block !important;
+    font-weight: bold !important;
+}
+
+.form-control {
+    width: 100% !important;
+    padding: 10px !important;
+    font-size: 16px !important;
+    border: 1px solid #ccc !important;
+    border-radius: 5px !important;
+    box-sizing: border-box !important;
+    margin-top: 5px !important;
+}
+
+textarea.form-control {
+    resize: vertical !important;
+}
+
+.btn {
+    display: inline-block !important;
+    padding: 10px 20px !important;
+    font-size: 16px !important;
+    font-weight: bold !important;
+    text-decoration: none !important;
+    color: #fff !important;
+    background-color: #007bff !important;
+    border: none !important;
+    border-radius: 5px !important;
+    cursor: pointer !important;
+    transition: background-color 0.3s !important;
+}
+
+.btn-primary {
+    background-color: #007bff !important;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3 !important;
+}
+
+.form-check {
+    display: block !important;
+    margin-top: 10px !important;
+}
+
+.form-check-input {
+    margin-right: 10px !important;
+}
+
+.form-check-label {
+    display: inline-block !important;
+    margin-right: 10px !important;
+}
+
+#hashtags {
+    max-height: 200px !important;
+    overflow-y: auto !important;
+}
+
+.fix {
+    margin-bottom: 20px !important;
+}
+
+.fffix {
+    margin-bottom: 10px !important;
+}
+
+.container {
+    max-width: 600px !important;
+    margin: 0 auto !important;
+    padding: 20px !important;
+    border: 1px solid #ccc !important;
+    border-radius: 5px !important;
+    background-color: #f9f9f9 !important;
+    margin-bottom: 20px !important;
+}
+
+.form-group {
+    margin-bottom: 20px !important;
+}
+
+label {
+    display: block !important;
+    font-weight: bold !important;
+}
+
+.form-control {
+    width: 100% !important;
+    padding: 10px !important;
+    font-size: 16px !important;
+    border: 1px solid #ccc !important;
+    border-radius: 5px !important;
+    box-sizing: border-box !important;
+    margin-top: 5px !important;
+}
+
+textarea.form-control {
+    resize: vertical !important;
+}
+
+.btn {
+    display: inline-block !important;
+    padding: 10px 20px !important;
+    font-size: 16px !important;
+    font-weight: bold !important;
+    text-decoration: none !important;
+    color: #fff !important;
+    background-color: #28a745 !important; /* зеленый цвет */
+    border: none !important;
+    border-radius: 5px !important;
+    cursor: pointer !important;
+    transition: background-color 0.3s !important;
+}
+
+.btn-primary {
+    background-color: #28a745 !important; /* зеленый цвет */
+}
+
+.btn-primary:hover {
+    background-color: #218838 !important; /* более темный зеленый для hover */
+}
+
+header {
+    background-color: #f8f9fa !important; /* цвет фона */
+    padding: 20px 0 !important; /* внутренние отступы сверху и снизу */
+    border-bottom: 1px solid #ddd !important; /* горизонтальная линия под заголовком */
+}
+
+.navbar-nav {
+    margin-left: auto !important; /* размещение навигации справа */
+}
+
+.navbar-nav .nav-item {
+    margin-left: 10px !important; /* добавляем небольшой отступ между элементами навигации */
+}
+
+.navbar-nav .nav-link {
+    color: #28a745 !important; /* зеленый цвет текста ссылок */
+    font-weight: bold !important; /* жирный шрифт */
+    transition: color 0.3s !important; /* плавное изменение цвета при наведении курсора */
+}
+
+.navbar-nav .nav-link:hover {
+    color: #218838 !important; /* более темный зеленый для hover */
+}
+
+.navbar-nav .active .nav-link {
+    color: #218838 !important; /* цвет текста активной ссылки */
+}
+
+
